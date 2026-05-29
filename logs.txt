@@ -1,0 +1,45 @@
+[2026-05-28 17:57:18] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 17:57:27] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 17:57:33] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:00:31] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:01:10] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:01:33] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:01:43] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:01:56] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:02:01] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:02:08] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:02:16] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:02:26] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:03:03] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:03:30] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:03:37] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:04:36] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:02] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:07:16] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:21] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:27] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:32] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:42] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:47] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:07:53] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:09:36] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:09:41] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:10:04] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:10:19] [🚨 CRITICAL WARNING - ANOMALY DETECTED] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:10:30] [🚨 CRITICAL WARNING - ANOMALY DETECTED] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:10:43] [🚨 CRITICAL WARNING - ANOMALY DETECTED] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:10:57] [🚨 CRITICAL WARNING - ANOMALY DETECTED] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:11:53] [🚨 CRITICAL WARNING - ANOMALY DETECTED] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:12:17] [🚨 CRITICAL WARNING - ANOMALY DETECTED] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:12:35] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:12:40] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:16:13] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:16:19] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:16:24] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:16:57] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:17:31] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:17:44] Login Request | User: 'admin' | Mode: Secured
+[2026-05-28 18:18:01] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:18:06] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:18:12] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-28 18:19:42] Login Request | User: 'admin' | Mode: Vulnerable

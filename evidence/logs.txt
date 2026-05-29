@@ -1,0 +1,5 @@
+[2026-05-28 18:22:34] Login Request | User: 'admin' | Mode: Secured
+[2026-05-29 07:11:32] Login Request | User: 'admin' | Mode: Vulnerable
+[2026-05-29 07:12:24] Login Request | User: 'admin' | Mode: Secured
+[2026-05-29 07:12:29] Login Request | User: 'admin' | Mode: Secured
+[2026-05-29 07:13:09] Login Request | User: 'admin' | Mode: Secured
